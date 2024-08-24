@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksharma1234&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksharma1234" /> </p>
 
-- 🌱 I’m currently learning **JS,REACT,BOOTSTRAP,TAILWIND**
-
 - 💬 Ask me about **JS,REACT**
 
 - 📫 How to reach me **sharmapratik2222@gmail.com**
